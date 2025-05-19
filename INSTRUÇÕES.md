@@ -5,10 +5,11 @@ Siga as instruções abaixo:
 ## Como participar
 
 1. Clone este repositório na sua máquina.
-2. Crie uma pasta com seu nome: `seu-nome/`.
-3. Crie um arquivo `respostas.md` dentro dela.
-4. Responda a cada uma das perguntas abaixo, e **crie um commit separado para cada resposta**.
-5. Quando terminar, suba sua branch e abra um Pull Request para a branch `develop`.
+2. Partindo da branch `main` crie uma nova branch com `seu-nome`.
+3. Agora, na sua branch, crie uma pasta com seu nome: `seu-nome/`.
+4. Dentro da pasta, crie um arquivo `respostas.md`.
+5. Responda a cada uma das perguntas abaixo, e **crie um commit separado para cada resposta**.
+6. Quando terminar, suba sua branch e abra um Pull Request para a branch `release`.
 
 ## Perguntas
 
