@@ -17,6 +17,7 @@ Siga as instruções abaixo:
 2. Há quanto tempo você trabalha ou estuda Go?
 3. Qual é seu objetivo como profissional de TI?
 4. O que você espera com o curso de Go?
-5. Qual o seu hobbie favorito?
+5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
 
 **Desafio bônus**: use mensagens de commit claras e descritivas!
