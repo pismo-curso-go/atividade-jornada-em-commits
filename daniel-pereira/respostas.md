@@ -1,0 +1,5 @@
+## Perguntas
+
+1. Conte um pouco sobre sua jornada na área de TI até aqui.
+
+    Me chamo Daniel Pereira e trabalho na área desde 2020, iniciando com freelance como front-end. Em 2022, mudei minha stack para back-end com Java e, em 2023, tive a oportunidade de trabalhar no Santander como desenvolvedor back-end Java. No final de 2023 até o final de 2024, trabalhei como full stack com React e Angular no front e Java, Kotlin e PHP no back-end.
