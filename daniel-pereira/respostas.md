@@ -16,3 +16,7 @@
 
     Espero conseguir dominar o conteúdo necessário para compreender os próximos passos para um nível intermediário e avançado da linguagem, tanto com meu time quanto nos estudos pessoais, para atingir uma fluência na linguagem e nos processos usando Go.
 
+5. Conte um pouco sobre sua rotina de trabalho (setor, área de atuação, projetos, tecnologias).
+
+Eu atuo no time de antifraude. Minha atuação no momento está sendo em migrar testes que eram mockados por uma aplicação interna da empresa para outra lib responsável por gerar mocks mais robustos, seguros e rastreáveis para melhor manutenção, usando a linguagem Go.
+
