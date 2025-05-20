@@ -15,6 +15,9 @@
 4. O que você espera com o curso de Go?
 
     Espero conseguir dominar o conteúdo necessário para compreender os próximos passos para um nível intermediário e avançado da linaguem com meu time e nos estudos pessoais para atingir uma fluência na linguagem e nos processos usando go.
-    
+
 5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+
+    Eu atuo no time de cash management , minha atuação no momento está sendo em migrar testes que eram mockados por uma aplicação interna da empresa para outra lib responsável por gerar mocks mais robustos, seguros e rastreaveis para melhor manutenção usando a linguagem Go.
+
 6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
