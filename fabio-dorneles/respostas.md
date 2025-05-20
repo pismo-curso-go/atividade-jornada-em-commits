@@ -9,6 +9,9 @@
     Estudo e trabalho com a linguagem Go ha aproximadamente 4 meses
 
 3. Qual é seu objetivo como profissional de TI?
+
+    Me tornar um Especialista e trabalhar fora do Brasil.
+    
 4. O que você espera com o curso de Go?
 5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
 6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
