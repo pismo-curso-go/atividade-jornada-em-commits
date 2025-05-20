@@ -21,3 +21,5 @@
     Eu atuo no time de cash management , minha atuação no momento está sendo em migrar testes que eram mockados por uma aplicação interna da empresa para outra lib responsável por gerar mocks mais robustos, seguros e rastreaveis para melhor manutenção usando a linguagem Go.
 
 6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
+
+    No meu tempo livre atualmente tenho brincado com meu filho de 2 anos e também jogo video game com meu filho mais velho de 14 anos além de assistir séries com minha esposa.
