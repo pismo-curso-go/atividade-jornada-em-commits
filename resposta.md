@@ -10,3 +10,7 @@ R: Meu objetivo é trabalhar e aprender mais sobre a area que me acolheu
 
 4- O que você espera com o curso de Go?
 R: Aprender mais sobre a linguagem, me aprimorar e especializar 
+
+5- Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+R: Estou no setor do Pix, como Engenheiro de soft.
+Ate o momento, nao trabalhei em grandes projetos, mas ajudei nas atualizações de mocks para teste
