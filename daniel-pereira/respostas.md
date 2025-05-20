@@ -7,3 +7,7 @@
 2. Há quanto tempo você trabalha ou estuda Go?
 
     Estudo a linguagem Go há aproximadamente seis meses.
+
+3. Qual é seu objetivo como profissional de TI?
+
+    Meu objetivo é me tornar um especialista na área e aproveitar a oportunidade de trabalhar e morar fora do Brasil.
