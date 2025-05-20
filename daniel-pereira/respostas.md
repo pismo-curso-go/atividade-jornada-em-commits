@@ -20,3 +20,6 @@
 
 Eu atuo no time de antifraude. Minha atuação no momento está sendo em migrar testes que eram mockados por uma aplicação interna da empresa para outra lib responsável por gerar mocks mais robustos, seguros e rastreáveis para melhor manutenção, usando a linguagem Go.
 
+6. Sobre você, qual o seu hobby favorito e o que gosta de fazer no tempo livre?
+
+Eu gosto de praticar atividades físicas, como musculação, jogar um game, criar coisas em 3D e imprimi-las.
