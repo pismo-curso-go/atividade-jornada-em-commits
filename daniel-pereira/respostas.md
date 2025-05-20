@@ -11,3 +11,8 @@
 3. Qual é seu objetivo como profissional de TI?
 
     Meu objetivo é me tornar um especialista na área e aproveitar a oportunidade de trabalhar e morar fora do Brasil.
+
+4. O que você espera com o curso de Go?
+
+    Espero conseguir dominar o conteúdo necessário para compreender os próximos passos para um nível intermediário e avançado da linguagem, tanto com meu time quanto nos estudos pessoais, para atingir uma fluência na linguagem e nos processos usando Go.
+
