@@ -3,3 +3,5 @@
 2. Apenas 4 meses
 
 3. Alcançar estabilidade financeira e profissional
+
+4. Espero que eu consiga ajudar meu time, seja realizando manutenções de código, atualizações... Que me de uma base sólida/ confiança para seguir em frente na Pismo
