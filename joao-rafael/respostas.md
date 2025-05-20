@@ -9,3 +9,7 @@ Comecei a programar aos 12 anos com a ajuda de um amigo que já trabalhava como 
 3. Qual é seu objetivo como profissional de TI?
 
 Meu objetivo é evoluir constantemente como desenvolvedor e contribuir para projetos desafiadores com impacto real.
+
+4. O que você espera com o curso de Go?
+
+Espero consolidar minha base em Go, ganhar mais confiança na linguagem e aplicar o conhecimento direto no trabalho.
