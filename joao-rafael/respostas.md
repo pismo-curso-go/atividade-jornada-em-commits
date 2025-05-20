@@ -5,3 +5,7 @@ Comecei a programar aos 12 anos com a ajuda de um amigo que já trabalhava como 
 2. Há quanto tempo você trabalha ou estuda Go?
 
 4 meses
+
+3. Qual é seu objetivo como profissional de TI?
+
+Meu objetivo é evoluir constantemente como desenvolvedor e contribuir para projetos desafiadores com impacto real.
