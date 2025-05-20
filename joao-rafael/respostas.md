@@ -17,3 +17,7 @@ Espero consolidar minha base em Go, ganhar mais confiança na linguagem e aplica
 5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
 
 Atualmente, trabalho com Go, focando principalmente em testes de APIs. Minha rotina envolve entender o funcionamento dos serviços, escrever e ajustar testes, além de participar das cerimônias do time e estudar a base de código para ganhar mais autonomia.
+
+6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
+
+Gosto de praticar esportes, principalmente academia, para manter o equilíbrio físico e mental.
