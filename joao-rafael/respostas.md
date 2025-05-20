@@ -13,3 +13,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e contribuir para proj
 4. O que você espera com o curso de Go?
 
 Espero consolidar minha base em Go, ganhar mais confiança na linguagem e aplicar o conhecimento direto no trabalho.
+
+5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+
+Atualmente, trabalho com Go, focando principalmente em testes de APIs. Minha rotina envolve entender o funcionamento dos serviços, escrever e ajustar testes, além de participar das cerimônias do time e estudar a base de código para ganhar mais autonomia.
