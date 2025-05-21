@@ -9,3 +9,6 @@ Após isso, entrei na Infratoken que era uma startup de tokenização de investi
 Enquanto tentava minha realocação, trabalhei em um projeto que fui convidado por um colega da empresa anterior, desta vez era uma empresa focada em agentes de IA com personalidade embutida a partir de uma configuração/treinamento prévio. Usei principalmente typescript com nestjs como framework mas também fazia algumas coisas em Python.
 
 Essa experiência teve fim com a notícia de aprovação no processo seletivo da Pismo, e assim chegamos no "até aqui".
+
+### 2. Há quanto tempo você trabalha ou estuda Go?
+Comecei a estudar/trabalhar com Go após entrar na Pismo, antes do inicio da formação vi algumas coisas despretensiosamente e a partir do começo da formação comecei a estudar pra valer, pelo conteúdo passado e por fora também.
