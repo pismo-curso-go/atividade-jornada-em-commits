@@ -22,3 +22,9 @@ e disponibilizá-las para usuários
 
 Espero conseguir obter uma boa base de conhecimento com as tecnologias e os processos e conseguir aplicar isso na empresa
 
+## 5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+
+Trabalho no time de Payments como Engenheiro de Software Associate, e no momento tenho recebido tasks mais simples que 
+crescem de complexidade conforme vou recebendo novas tasks. Até agora, recebi algumas tarefas relacionadas a documentação
+e testes unitários.
+
