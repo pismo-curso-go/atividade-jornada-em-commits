@@ -7,3 +7,5 @@
 3. Meu objetivo é me aprimorar cada vez mais como desenvolvedor, alcançar maior nível e continuar meus estudos.
 <br>
 4. Espero aprender todos os fundamentos essenciais, caracteristicas específicas do go como as Go routines e as ferramentas necessárias para nosso trabalho.
+<br>
+5. Trabalho na equipe de Authorizer Enablement, trabalhamos com API`s responsáveis por autorizações, controle de saldo, entre outros, usamos ferramentas como o Grafana para controle de logs, Codefresh para CI-CD, Terraform, AWS, entre outros.
