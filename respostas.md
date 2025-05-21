@@ -9,3 +9,7 @@ tentando achar uma oportunidade de achar um trabalho na área de desenvolvimento
 trocando de empresas com cargos de suporte ou cargos mais voltado a adm, tive a sorte de encontrar a Pismo e 
 encontrar uma vaga que encaixasse com meu perfil.
 
+## 2. Há quanto tempo você trabalha ou estuda Go?
+
+Estudo a 2 meses, comecei a ter contato co Go por conta da Pismo
+
