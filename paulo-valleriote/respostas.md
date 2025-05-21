@@ -18,3 +18,8 @@ Por enquanto não tenho muita pretensão de cargos futuros, mas para além das d
 
 ### 4. O que você espera com o curso de Go?
 Formar uma base sólida que me permita ter segurança de avançar em tópicos mais avançados, bem como ajudar ativamente no dia a dia da minha squad. A principal expectativa que fica é que com a finalização se aproximando cada vez mais o medo de possivelmente asusmir uma task mais "séria" diminua dentro do possível.
+
+### 5. Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+Faço parte da squad de rules, responsável pelas APIs que regulam transações e gerenciam saldos. Utilizamos bancos SQL e NoSQL, Golang com framework Echo e Open Telemetry para logs, métricas e tracing.
+
+Temos rituais de fazer dailys, retrospectivas e refining, sendo as retrospectivas mais espaçadas, os refinamentos toda segunda-feira e as dailys todo dia exceto quinta-feira.
