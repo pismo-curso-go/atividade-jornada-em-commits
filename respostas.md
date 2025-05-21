@@ -28,3 +28,7 @@ Trabalho no time de Payments como Engenheiro de Software Associate, e no momento
 crescem de complexidade conforme vou recebendo novas tasks. Até agora, recebi algumas tarefas relacionadas a documentação
 e testes unitários.
 
+## 6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
+
+Meu hobbie favorito é o videogame, curto muito jogos competitivos e jogos modo história. Além disso gosto muito de audiovisual, por exemplo 
+edição de vídeo, design, fotografia, etc.
