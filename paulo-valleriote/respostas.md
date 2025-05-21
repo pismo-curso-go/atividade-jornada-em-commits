@@ -12,3 +12,6 @@ Essa experiência teve fim com a notícia de aprovação no processo seletivo da
 
 ### 2. Há quanto tempo você trabalha ou estuda Go?
 Comecei a estudar/trabalhar com Go após entrar na Pismo, antes do inicio da formação vi algumas coisas despretensiosamente e a partir do começo da formação comecei a estudar pra valer, pelo conteúdo passado e por fora também.
+
+### 3. Qual é seu objetivo como profissional de TI?
+Por enquanto não tenho muita pretensão de cargos futuros, mas para além das dificuldades sociais que ser uma pessoa autista proporciona, também não tenho muita intenção de assumir cargos de liderença, então penso em seguir especializando e ir para o caminho mais técnico mesmo.
