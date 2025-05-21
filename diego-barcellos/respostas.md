@@ -5,3 +5,5 @@
 2. Comecei a conhecer o Go aqui na PISMO mesmo, nunca tinha trabalhado com essa stack.
 <br>
 3. Meu objetivo é me aprimorar cada vez mais como desenvolvedor, alcançar maior nível e continuar meus estudos.
+<br>
+4. Espero aprender todos os fundamentos essenciais, caracteristicas específicas do go como as Go routines e as ferramentas necessárias para nosso trabalho.
