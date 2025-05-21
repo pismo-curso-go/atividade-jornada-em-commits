@@ -15,3 +15,6 @@ Comecei a estudar/trabalhar com Go após entrar na Pismo, antes do inicio da for
 
 ### 3. Qual é seu objetivo como profissional de TI?
 Por enquanto não tenho muita pretensão de cargos futuros, mas para além das dificuldades sociais que ser uma pessoa autista proporciona, também não tenho muita intenção de assumir cargos de liderença, então penso em seguir especializando e ir para o caminho mais técnico mesmo.
+
+### 4. O que você espera com o curso de Go?
+Formar uma base sólida que me permita ter segurança de avançar em tópicos mais avançados, bem como ajudar ativamente no dia a dia da minha squad. A principal expectativa que fica é que com a finalização se aproximando cada vez mais o medo de possivelmente asusmir uma task mais "séria" diminua dentro do possível.
