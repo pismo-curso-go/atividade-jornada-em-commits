@@ -23,3 +23,6 @@ Formar uma base sólida que me permita ter segurança de avançar em tópicos ma
 Faço parte da squad de rules, responsável pelas APIs que regulam transações e gerenciam saldos. Utilizamos bancos SQL e NoSQL, Golang com framework Echo e Open Telemetry para logs, métricas e tracing.
 
 Temos rituais de fazer dailys, retrospectivas e refining, sendo as retrospectivas mais espaçadas, os refinamentos toda segunda-feira e as dailys todo dia exceto quinta-feira.
+
+### 6. Sobre você, qual o seu hobbie favorito e o que gosta de fazer no tempo livre?
+Meus hobbies dependem um pouco da época mas gosto de jogar jogos singleplayer, principalmente com foco em narrativa. Também gosto de ler e fazer musculação, gostos que adquiri mais recentemente porque a poco mais de dois anos atrás eu não gostava de nenhum dos dois mas agora não fico sem.
