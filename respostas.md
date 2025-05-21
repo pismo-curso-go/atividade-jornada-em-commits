@@ -18,3 +18,7 @@ Estudo a 2 meses, comecei a ter contato co Go por conta da Pismo
 Gostaria de obter uma certa senioridade e me estabilizar na Pismo, e em paralelo, tentar desenvolver pequenas soluções pessoais
 e disponibilizá-las para usuários
 
+## 4. O que você espera com o curso de Go?
+
+Espero conseguir obter uma boa base de conhecimento com as tecnologias e os processos e conseguir aplicar isso na empresa
+
