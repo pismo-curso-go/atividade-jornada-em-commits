@@ -13,3 +13,8 @@ encontrar uma vaga que encaixasse com meu perfil.
 
 Estudo a 2 meses, comecei a ter contato co Go por conta da Pismo
 
+## 3. Qual é seu objetivo como profissional de TI?
+
+Gostaria de obter uma certa senioridade e me estabilizar na Pismo, e em paralelo, tentar desenvolver pequenas soluções pessoais
+e disponibilizá-las para usuários
+
