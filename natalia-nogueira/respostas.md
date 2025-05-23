@@ -9,3 +9,7 @@ R- Desde quando entrei na PISMO
 Qual é seu objetivo como profissional de TI?
 
 R - Meu objetivo é continuar me qualificando, aprendendo novas habilidades e adquirindo experiência prática para crescer profissionalmente
+
+O que você espera com o curso de Go?
+
+R Aprender os principais conceito e conseguir entregar valor para o meu Tine
